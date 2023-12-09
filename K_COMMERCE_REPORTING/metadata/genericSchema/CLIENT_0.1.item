@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_sEY-UIPKEe6yLIZUK5d5Pg" name="repository.metadataGenericSchema" dataPackage="_sEY-UYPKEe6yLIZUK5d5Pg"/>
+  <TalendMetadata:GenericPackage xmi:id="_sEY-UYPKEe6yLIZUK5d5Pg" name="repository.metadataGenericSchema" dataManager="_sEY-UIPKEe6yLIZUK5d5Pg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_sEY-UoPKEe6yLIZUK5d5Pg" id="_WKAxsIPKEe6yLIZUK5d5Pg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sEY-U4PKEe6yLIZUK5d5Pg" name="ID_CLIENT" label="ID_CLIENT" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sEY-VIPKEe6yLIZUK5d5Pg" name="NOM_CLIENT" label="NOM_CLIENT" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sEY-VYPKEe6yLIZUK5d5Pg" name="PREN_CLIENT" label="PREN_CLIENT" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sEY-VoPKEe6yLIZUK5d5Pg" name="CD_POSTAL_CLIENT" label="CD_POSTAL_CLIENT" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sEY-V4PKEe6yLIZUK5d5Pg" name="VILLE_CLIENT" label="VILLE_CLIENT" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sEY-WIPKEe6yLIZUK5d5Pg" name="PAYS_CLIENT" label="PAYS_CLIENT" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sEY-WYPKEe6yLIZUK5d5Pg" name="REGION_CLIENT" label="REGION_CLIENT" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sEY-WoPKEe6yLIZUK5d5Pg" name="CD_TYPE_CLIENT" label="CD_TYPE_CLIENT" talendType="id_String"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

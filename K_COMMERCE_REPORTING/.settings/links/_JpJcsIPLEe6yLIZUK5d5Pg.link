@@ -1,0 +1,49 @@
+{
+  "itemId" : "_JpJcsIPLEe6yLIZUK5d5Pg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_nVPdsIPBEe6yLIZUK5d5Pg",
+    "parameterList" : [ {
+      "id" : "_oCnhE4PBEe6yLIZUK5d5Pg",
+      "name" : "schema_ods"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_482YIIPCEe6yLIZUK5d5Pg",
+    "parameterList" : [ {
+      "id" : "_oCnhFoPBEe6yLIZUK5d5Pg",
+      "name" : "additionalParam"
+    }, {
+      "id" : "_oCnhEYPBEe6yLIZUK5d5Pg",
+      "name" : "database"
+    }, {
+      "id" : "_oCnhFYPBEe6yLIZUK5d5Pg",
+      "name" : "password"
+    }, {
+      "id" : "_oCnhEoPBEe6yLIZUK5d5Pg",
+      "name" : "port"
+    }, {
+      "id" : "_oCnhE4PBEe6yLIZUK5d5Pg",
+      "name" : "schema_PARAM"
+    }, {
+      "id" : "_oCnhEIPBEe6yLIZUK5d5Pg",
+      "name" : "serverName"
+    }, {
+      "id" : "_oCnhFIPBEe6yLIZUK5d5Pg",
+      "name" : "user"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_YBxowIPDEe6yLIZUK5d5Pg",
+    "parameterList" : [ {
+      "id" : "_YCDVk4PDEe6yLIZUK5d5Pg",
+      "name" : "encodage"
+    }, {
+      "id" : "_YCDVkoPDEe6yLIZUK5d5Pg",
+      "name" : "fieldSeparator"
+    }, {
+      "id" : "_YCDVkYPDEe6yLIZUK5d5Pg",
+      "name" : "projectFolder"
+    } ]
+  } ]
+}

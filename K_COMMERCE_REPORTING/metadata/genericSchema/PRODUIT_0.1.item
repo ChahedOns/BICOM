@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_VuqScIPKEe6yLIZUK5d5Pg" name="repository.metadataGenericSchema" dataPackage="_VuqScYPKEe6yLIZUK5d5Pg"/>
+  <TalendMetadata:GenericPackage xmi:id="_VuqScYPKEe6yLIZUK5d5Pg" name="repository.metadataGenericSchema" dataManager="_VuqScIPKEe6yLIZUK5d5Pg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_VuqScoPKEe6yLIZUK5d5Pg" id="_GleFwIPKEe6yLIZUK5d5Pg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_VuqSc4PKEe6yLIZUK5d5Pg" name="CD_PRODUIT" label="CD_PRODUIT" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_VuqSdIPKEe6yLIZUK5d5Pg" name="NOM_PRODUIT" label="NOM_PRODUIT" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_VuqSdYPKEe6yLIZUK5d5Pg" name="PRIX_ACHAT_PRODUIT" label="PRIX_ACHAT_PRODUIT" length="-1" talendType="id_BigDecimal"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_VuqSdoPKEe6yLIZUK5d5Pg" name="PRIX_VENTE_PRODUIT" label="PRIX_VENTE_PRODUIT" length="-1" talendType="id_BigDecimal"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_VuqSd4PKEe6yLIZUK5d5Pg" name="CD_SOUS_CATEGORIE" label="CD_SOUS_CATEGORIE" talendType="id_String"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>
